@@ -25,6 +25,10 @@ A new Flutter application.
 
 
 
+![Screenshot_20200526-130207](https://user-images.githubusercontent.com/62434308/83364772-ec704980-a3a3-11ea-8e4a-6d1ac6460571.png)
+![Screenshot_20200526-130212](https://user-images.githubusercontent.com/62434308/83364774-eda17680-a3a3-11ea-8d01-25e7ccbe3606.png)
+![Screenshot_20200601-010300](https://user-images.githubusercontent.com/62434308/83364775-eed2a380-a3a3-11ea-9142-cdd6c04ce610.png)
+
 
 
 
