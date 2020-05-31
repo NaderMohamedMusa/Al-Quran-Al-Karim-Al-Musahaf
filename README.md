@@ -2,7 +2,10 @@
 
 A new Flutter application.
 
-## Getting Started
+## Link app on Google Play
+https://play.google.com/store/apps/details?id=com.quran.quranapp
+
+## ScreenShot from App 
 ![Screenshot_1590490212](https://user-images.githubusercontent.com/62434308/83364487-e2e5e200-a3a1-11ea-9129-18b12341a7a5.png)
 ![Screenshot_1590490282](https://user-images.githubusercontent.com/62434308/83364488-e4afa580-a3a1-11ea-90c0-ea7428f7a066.png)
 ![Screenshot_1590490607](https://user-images.githubusercontent.com/62434308/83364490-e9745980-a3a1-11ea-944b-a018d91de424.png)
